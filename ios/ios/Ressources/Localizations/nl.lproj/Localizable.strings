@@ -1,0 +1,236 @@
+// Login
+"login_lets_go" = "Let's go 🎉🤘";
+"login_continue_with_your_phone" = "CONTINUE WITH YOUR PHONE";
+"login_continue_with_your_snapchat" = "CONTINUE WITH SNAPCHAT";
+"login_agree_with" = "I agree with the ";
+"login_terms_and_policy" = "Terms & Policy";
+"login_login_warning" = "No tolerance for offensive content and messages, as well as abuse by users. If you see annoying content you can report it or block it.";
+"login_ok" = "Ok";
+
+"login_verify_number" = "Verify Your Number";
+"login_type_code" = "Type the code";
+"login_code_required" = "Code required";
+"login_wrong_code" = "Wrong Code. Try again";
+"login_6_numbers" = "6 numbers";
+"login_wait_sms" = "Wait for the SMS...";
+
+// Profile
+
+"profile_no_user_found" = "No User Found ☹️";
+
+"profile_report" = "Report";
+"profile_block" = "Block";
+"profile_dismiss" = "Dismiss";
+
+"profile_birthday" = "birthday";
+"profile_location" = "location";
+
+"profile_follows_you" = "Follows You";
+"profile_friends" = "Friends ❤️";
+
+"profile_questions" = "questions";
+"profile_followers" = "followers";
+"profile_following" = "following";
+
+"profile_sign_aquarius" = "Aquarius ♒";
+"profile_sign_pisces" = "Pisces ♓";
+"profile_sign_aries" = "Aries ♈";
+"profile_sign_taurus" = "Taurus ♉";
+"profile_sign_gemini" = "Gemini ♊";
+"profile_sign_cancer" = "Cancer ♋";
+"profile_sign_leo" = "Leo ♌";
+"profile_sign_virgo" = "Virgo ♍";
+"profile_sign_libra" = "Libra ♎";
+"profile_sign_scorpio" = "Scorpio ♏";
+"profile_sign_sagittarius" = "Sagittarius ♐";
+"profile_sign_capricorn" = "Capricorn ♑";
+
+"profile_updated" = "Profile Updated";
+
+"profile_unblock" = "Unblock";
+"profile_user_blocked_emoji" = "User Blocked 😕";
+"profile_user_blocked" = "User Blocked";
+"profile_user_blocked_user" = "This user blocked you 👹!";
+"profile_private_account" = "Private Account 🔒";
+
+// Search
+
+"search_users" = "Search Users";
+"search_followers" = "Search Followers";
+"no_followers" = "No Followers 😭";
+"search_following" = "Search Following";
+"no_following" = "No Following 🤡";
+
+// Comment
+
+"no_comments" = "No comments have been posted yet 😲";
+"comment_vocal_time_limit" = "Your vocal must be at least 1 second long";
+
+// Notifications
+
+"Notifications" = "Notifications";
+"No Notifications 🎉" = "No Notifications 🎉";
+
+// Settings
+
+"settings" = "Settings";
+"add" = "Add";
+"cancel" = "Cancel";
+
+"settings_pictures" = "PICTURES";
+"settings_Profile" = "Profile";
+"settings_background" = "Background";
+
+"settings_account_info" = "ACCOUNT INFO";
+"settings_username" = "Username";
+"settings_name" = "Name";
+"settings_gender" = "Gender";
+"settings_select_gender" = "Select Your Gender";
+"settings_male" = "Male 🙎‍♂️";
+"settings_female" = "Female 🙎‍♀️";
+"settings_no_gender" = "Not Specified";
+"settings_birthday" = "Birthday 🎂";
+
+"settings_about_me" = "ABOUT ME";
+"settings_biography" = "Biography";
+"settings_webiste" = "Website";
+"settings_location" = "Location";
+
+"settings_social_links" = "SOCIAL LINKS";
+
+"settings_privacy" = "PRIVACY";
+"settings_blocked_accounts" = "Blocked Accounts 🚫";
+"settings_private" = "Private 🔒";
+
+"settings_app" = "APP";
+"settings_dark_mode" = "Dark mode 🌙";
+"settings_contact_us" = "Contact Us";
+"settings_terms_of_use" = "Terms of Use";
+
+"settings_logout" = "Log Out";
+"settings_delete_account" = "Delete My Account";
+
+"settings_username_title" = "Choose Your Username";
+"settings_username_placeholder" = "Your Username";
+"settings_username_required" = "Username required";
+"settings_username_length" = "Between 3-16 characters";
+"settings_username_already_used" = "Username already used";
+
+"settings_name_title" = "Choose Your Name";
+"settings_name_placeholder" = "Your Name";
+"settings_name_required" = "Name required";
+"settings_name_length" = "Between 2-32 characters";
+
+"settings_birthday" = "Your Birthday 🎂";
+"settings_invalid_birthday" = "Birthday Invalid";
+"settings_too_young" = "You are too young";
+
+"settings_instagram_title" = "Add Your Instagram";
+"settings_instagram_placeholder" = "Your Instagram";
+"settings_instagram_length" = "Between 0-32 characters";
+
+"settings_snapchat_title" = "Add Your Snapchat";
+"settings_snapchat_placeholder" = "Your Snapchat";
+"settings_snapchat_length" = "Between 0-32 characters";
+
+"settings_location_title" = "Add Your Location";
+"settings_location_placeholder" = "Your Location";
+
+"settings_website_title" = "Add Your Website";
+"settings_website_placeholder" = "Your Website";
+
+"settings_biography_title" = "Add Your Biography";
+"settings_biography_placeholder" = "Your Biography";
+"settings_biography_length" = "Between 0-255 characters";
+
+"settings_delete_account_question" = "Are You Sure??";
+"settings_delete_account_message" = "Your account will be deleted in 30 days. After this delay, you won't be able to log in.";
+"settings_delete_account_confirmation" = "Yes 🥺";
+
+"post_express_yourself" = "Express yourself...";
+
+"profile_ask_anything" = "Ask anything";
+
+"post_whastup" = "What's on your mind?";
+
+"profile_follow" = "Follow";
+"profile_following" = "Following";
+
+// Notification
+
+"QUESTION_NOTIFICATION_FORMAT" = "%@ asked you a question.";
+"ANSWER_NOTIFICATION_FORMAT" = "%@ answered to your question.";
+"COMMENT_NOTIFICATION_FORMAT" = "%@ commented.";
+"LOVE_NOTIFICATION_FORMAT" = "%@ loved your post.";
+"FOLLOW_NOTIFICATION_FORMAT" = "%@ started to follow you.";
+"REPOST_NOTIFICATION_FORMAT" = "%@ reposted your post.";
+"COMMENT_GIF_NOTIFICATION_FORMAT" = "%@ sent a gif.";
+"NEW_POST_NOTIFICATION_FORMAT" = "%@ published a new post.";
+"REPORT_POST_NOTIFICATION_FORMAT" = "%@ reported a post.";
+"LIVE_NOTIFICATION_FORMAT" = "%@ is live now!";
+"INVITE_LIVE_NOTIFICATION_FORMAT" = "%@ is inviting you to join a live!";
+"MENTION_NOTIFICATION_FORMAT" = "%@ mentioned you!";
+"COMMENT_AUDIO_NOTIFICATION_FORMAT" = "%@ sent a voice message.";
+
+"loved your post." = "loved your post.";
+"reposted your post." = "reposted your post.";
+"followed you." = "followed you.";
+"sent a gif." = "sent a gif.";
+"published a new post." = "published a new post.";
+"reported a post." = "reported a post.";
+"is live now!" = "is live now!";
+"is inviting you to join a live!" = "is inviting you to join a live!";
+"mentioned you!" = "mentioned you!";
+"sent a voice message." = "sent a voice message.";
+
+// Post
+
+"post_send" = "Send";
+"post_delete" = "Delete";
+"post_posted" = "Posted";
+
+// Comment
+
+"comment_reply" = "Reply";
+
+"Notifications Seen" = "Notifications Seen";
+
+"Turn On Notifications" = "Turn On Notifications";
+"Turn Off Notifications" = "Turn Off Notifications";
+"Notifications enabled" = "Notifications enabled";
+"Notifications disabled" = "Notifications disabled";
+"Reported" = "Reported";
+
+"Comments" = "Comments";
+
+"Show the loves" = "Show the loves";
+
+"Share on Snapchat" = "Share on Snapchat";
+"Share on Instagram" = "Share on Instagram";
+
+"Oops" = "Oops";
+"The server is down!" = "The server is down!";
+"Retry Later" = "Inténtelo más tarde";
+
+"Failure to Authenticate!" = "Failure to Authenticate!";
+"Failure to link with Snapchat!" = "Failure to link with Snapchat!";
+
+"BAN_REASON_DISCRIMINATION_FORMAT" = "Discriminatory Messages";
+"BAN_REASON_INSULTS_FORMAT" = "Insulting Messages";
+"BAN_REASON_PROHIBITED_CONTENT_FORMAT" = "Prohibited Content";
+"BAN_REASON_FAKE_PROFILE_FORMAT" = "Fake Profile";
+"BAN_REASON_LIFE_FORMAT" = "For Life";
+
+"You will be unbaned at this date :" = "You will be unbaned at this date :";
+"BAN_DISCRIMINATION_FORMAT" = "You have said discriminatory messages on the platform.";
+"BAN_INSULTS_FORMAT" = "You have insulted people on the platform.";
+"BAN_FAKE_PROFILE_FORMAT" = "You are using a fake profile.";
+"BAN_PROHIBITED_CONTENT_FORMAT" = "You have been posting prohibited content.";
+"BAN_LIFE_FORMAT" = "We don't want you on the platform anymore.";
+
+"You need to update the app. Go to the App Store." = "You need to update the app.\nGo to the App Store.";
+
+"Choice" = "Choice";
+"optional" = "optional";
+
+"no_posts" = "No posts have been posted yet 👻";
